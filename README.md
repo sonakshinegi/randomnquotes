@@ -1,2 +1,3 @@
 # randomnquotes
-ghjk
+
+Randomn quote generator 
